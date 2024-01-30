@@ -1,0 +1,1 @@
+# imagetype = "t2.small"
